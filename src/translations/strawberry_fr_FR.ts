@@ -6068,7 +6068,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
       <source>Ever played</source>
-      <translation>Jamais écouté</translation>
+      <translation>Déjà écouté</translation>
     </message>
     <message>
       <source>Never played</source>
