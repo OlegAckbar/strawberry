@@ -241,7 +241,7 @@
     </message>
     <message>
       <source>Don&apos;t stop!</source>
-      <translation>Ära peata!</translation>
+      <translation>Ära peatu!</translation>
     </message>
     <message>
       <source>All artists</source>
@@ -506,7 +506,7 @@
     </message>
     <message>
       <source>System highlight color</source>
-      <translation>Süsteemi esiletõstu värv</translation>
+      <translation>Süsteemne esiletõstmisvärv</translation>
     </message>
     <message>
       <source>Custom color</source>
@@ -1223,11 +1223,11 @@ Kui vasteid pole, kasutab ta kaustas asuvat suurimat pilti.</translation>
     </message>
     <message>
       <source>Show in various artists</source>
-      <translation>Kuva loendis &apos;Erinevad esitajad&apos;</translation>
+      <translation>Näita loendis „Erinevad esitajad“</translation>
     </message>
     <message>
       <source>Don&apos;t show in various artists</source>
-      <translation>Ära kuva loendis &apos;Erinevad esitajad&apos;</translation>
+      <translation>Ära näita loendis „Erinevad esitajad“</translation>
     </message>
     <message>
       <source>There are other songs in this album</source>
@@ -1235,7 +1235,7 @@ Kui vasteid pole, kasutab ta kaustas asuvat suurimat pilti.</translation>
     </message>
     <message>
       <source>Would you like to move the other songs on this album to Various Artists as well?</source>
-      <translation>Kas soovid teisaldada ka teised selle albumi lood nimistusse &apos;Erinevad esitajad&apos;?</translation>
+      <translation>Kas soovid teisaldada ka teised selle albumi lood loendisse „Erinevad esitajad“?</translation>
     </message>
     <message>
       <source>Error</source>
