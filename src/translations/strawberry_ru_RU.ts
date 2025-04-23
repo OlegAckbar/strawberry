@@ -2208,7 +2208,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Unknown</source>
-      <translation>Неизвестный</translation>
+      <translation>Неизвестно</translation>
     </message>
     <message>
       <source>Yes</source>
