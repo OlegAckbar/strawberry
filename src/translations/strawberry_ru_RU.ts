@@ -1050,7 +1050,7 @@
     </message>
     <message>
       <source>Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</source>
-      <translation>Выполнить анализ песни EBU R 128 (для нормализации громкости EBU R 128)</translation>
+      <translation>Анализировать песни по стандарту нормализации громкости EBU R 128</translation>
     </message>
     <message>
       <source>Expire unavailable songs after</source>
