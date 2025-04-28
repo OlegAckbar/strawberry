@@ -820,7 +820,7 @@
     </message>
     <message>
       <source>Time step</source>
-      <translation type="unfinished">Time step</translation>
+      <translation>Βήμα χρόνου</translation>
     </message>
     <message>
       <source> s</source>
@@ -1034,7 +1034,7 @@
     </message>
     <message>
       <source>Update the collection when Strawberry starts</source>
-      <translation type="unfinished">Update the collection when Strawberry starts</translation>
+      <translation>Ενημερώστε τη συλλογή όταν ξεκινά το Strawberry</translation>
     </message>
     <message>
       <source>Monitor the collection for changes</source>
@@ -1694,7 +1694,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Use Tidal settings to authenticate.</source>
-      <translation type="unfinished">Use Tidal settings to authenticate.</translation>
+      <translation>Χρήση του Tidal για έλεγχο ταυτότητας.</translation>
     </message>
     <message>
       <source>Use Spotify settings to authenticate.</source>
@@ -2100,7 +2100,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Change art</source>
-      <translation type="unfinished">Change art</translation>
+      <translation>Αλλαγή εξωφύλλων</translation>
     </message>
     <message>
       <source>Embedded cover</source>
@@ -3152,7 +3152,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Set value for all selected tracks...</source>
-      <translation type="unfinished">Set value for all selected tracks...</translation>
+      <translation>Ορισμός τιμής για όλα τα επιλεγμένα κομμάτια...</translation>
     </message>
     <message>
       <source>Edit tag...</source>
@@ -3340,7 +3340,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Context</source>
-      <translation type="unfinished">Context</translation>
+      <translation>Γενικό Πλαίσιο</translation>
     </message>
     <message>
       <source>Collection</source>
@@ -3424,7 +3424,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Copy URL(s)...</source>
-      <translation type="unfinished">Copy URL(s)...</translation>
+      <translation>Αντιγραφή URL(s)...</translation>
     </message>
     <message>
       <source>Show in collection...</source>
