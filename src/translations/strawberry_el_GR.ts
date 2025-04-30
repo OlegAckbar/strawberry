@@ -1359,7 +1359,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Add song albumartist tag</source>
-      <translation type="unfinished">Add song albumartist tag</translation>
+      <translation>Θα θέλατε να μετακινήσετε και τα άλλα τραγούδια σε αυτό το άλμπουμ σε Διάφορους Καλλιτέχνες?</translation>
     </message>
     <message>
       <source>Add song year tag</source>
@@ -1383,7 +1383,7 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Add song track tag</source>
-      <translation type="unfinished">Add song track tag</translation>
+      <translation>Προσθήκη ετικέτας τραγουδιού track</translation>
     </message>
     <message>
       <source>Add song genre tag</source>
@@ -1399,11 +1399,11 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Add song skip count</source>
-      <translation type="unfinished">Add song skip count</translation>
+      <translation>Προσθήκη μετρητή αναπαραγωγής</translation>
     </message>
     <message>
       <source>Add a new line if supported by the notification type</source>
-      <translation type="unfinished">Add a new line if supported by the notification type</translation>
+      <translation>Προσθήκη νέας γραμμής εάν υποστηρίζεται από τον τύπο ειδοποίησης</translation>
     </message>
     <message>
       <source>%filename%</source>
@@ -1462,11 +1462,11 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>EBU R 128 Integrated Loudness</source>
-      <translation type="unfinished">EBU R 128 Integrated Loudness</translation>
+      <translation>Ρυθμός Δείγματος (samplerate)</translation>
     </message>
     <message>
       <source>EBU R 128 Loudness Range</source>
-      <translation type="unfinished">EBU R 128 Loudness Range</translation>
+      <translation>EBU R 128 Loudness Range</translation>
     </message>
     <message>
       <source>Show album cover</source>
@@ -1658,11 +1658,11 @@ If there are no matches then it will use the largest image in the directory.</so
     </message>
     <message>
       <source>Save album covers in album directory</source>
-      <translation type="unfinished">Save album covers in album directory</translation>
+      <translation>Αποθήκευση εξώφυλλων άλμπουμ στον κατάλογο άλμπουμ</translation>
     </message>
     <message>
       <source>Save album covers in cache directory</source>
-      <translation type="unfinished">Save album covers in cache directory</translation>
+      <translation>Αποθήκευση εξώφυλλα άλμπουμ στον κατάλογο cache</translation>
     </message>
     <message>
       <source>Save album covers as embedded cover</source>
